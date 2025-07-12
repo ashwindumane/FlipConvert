@@ -2,7 +2,7 @@
 
 **FlipConvert** is a powerful file converter web app that allows users to convert **images**, **audio**, and **video** formats directly in the browser using `FFmpeg.wasm`. No uploads, no server — just fast, private, in-browser conversion.
 
-🌐 [Live Demo](https://flipconvert.vercel.app/) • 💻 [Source Code](https://github.com/ashwindumane/FlipConvert/)
+🌐 [Live Demo](https://flip-convert.vercel.app/)     • 💻 [Source Code](https://github.com/ashwindumane/FlipConvert/)
 
 ---
 
